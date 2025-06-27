@@ -1,0 +1,101 @@
+Monthly_Revenue,Monthly_Expense,Customer_Churn_Risk,Complaint_Count,Payment_Delay_Days,Operational_Incidents,Business_Sector_Healthcare,Business_Sector_Logistics,Business_Sector_Manufacturing,Business_Sector_Retail,Risk_Flag_Low,Risk_Flag_Medium,Actual_Profit,Predicted_Profit,Risk_Advice
+52915,40641,0.77,5,27,1,False,False,True,False,False,False,12274,14454.61,🚨 High Risk – Investigate Cost & Revenue Leaks
+42080,83879,0.17,2,16,1,False,True,False,False,False,False,-41799,-32980.63,🚨 High Risk – Investigate Cost & Revenue Leaks
+82735,83559,0.56,2,58,2,False,False,False,True,False,False,-824,2659.27,🚨 High Risk – Investigate Cost & Revenue Leaks
+40547,21449,0.97,1,41,2,False,False,False,True,False,False,19098,18396.92,🚨 High Risk – Investigate Cost & Revenue Leaks
+71040,42224,0.77,1,27,2,False,False,False,True,False,False,28816,31849.92,⚠️ Medium Risk – Monitor Operational KPIs
+76158,23662,0.25,2,26,1,True,False,False,False,True,False,52496,55072.03,✅ Low Risk – Stable Profitability
+77274,44786,0.6,3,2,0,False,True,False,False,False,True,32488,30285.16,⚠️ Medium Risk – Monitor Operational KPIs
+57528,49240,0.47,5,13,0,False,False,False,True,False,False,8288,11138.52,🚨 High Risk – Investigate Cost & Revenue Leaks
+31432,59942,0.84,2,45,1,False,False,True,False,False,False,-28510,-28409.79,🚨 High Risk – Investigate Cost & Revenue Leaks
+13512,77691,0.3,0,10,0,False,False,False,False,False,False,-64179,-66159.47,🚨 High Risk – Investigate Cost & Revenue Leaks
+21779,7018,0.85,3,58,1,True,False,False,False,False,False,14761,8049.14,🚨 High Risk – Investigate Cost & Revenue Leaks
+17763,82111,0.63,0,11,2,False,False,True,False,False,False,-64348,-58720.03,🚨 High Risk – Investigate Cost & Revenue Leaks
+81323,77859,0.65,2,47,0,False,False,False,True,False,False,3464,7166.4,🚨 High Risk – Investigate Cost & Revenue Leaks
+98714,71904,0.68,1,36,2,False,False,False,True,False,False,26810,15546.22,🚨 High Risk – Investigate Cost & Revenue Leaks
+84905,27070,0.33,3,14,0,False,False,True,False,True,False,57835,53929.25,✅ Low Risk – Stable Profitability
+8812,55375,0.85,4,51,3,False,False,False,True,False,False,-46563,-48636.61,🚨 High Risk – Investigate Cost & Revenue Leaks
+44711,31831,0.07,3,12,2,False,False,False,True,True,False,12880,11599.85,🚨 High Risk – Investigate Cost & Revenue Leaks
+71703,85870,0.54,0,31,1,False,False,False,False,False,False,-14167,-7918.53,🚨 High Risk – Investigate Cost & Revenue Leaks
+27574,18048,0.97,0,27,1,False,False,False,False,False,False,9526,12197.03,🚨 High Risk – Investigate Cost & Revenue Leaks
+43110,77038,0.2,2,35,1,True,False,False,False,False,False,-33928,-31160.4,🚨 High Risk – Investigate Cost & Revenue Leaks
+48303,10657,0.34,1,31,2,False,False,False,True,False,False,37646,35281.8,⚠️ Medium Risk – Monitor Operational KPIs
+64207,87386,0.62,0,27,1,True,False,False,False,False,False,-23179,-17773.54,🚨 High Risk – Investigate Cost & Revenue Leaks
+17015,14664,0.33,1,47,1,False,True,False,False,False,False,2351,3130.9,🚨 High Risk – Investigate Cost & Revenue Leaks
+95825,18896,0.75,3,46,0,False,False,True,False,False,False,76929,69926.92,✅ Low Risk – Stable Profitability
+40909,56028,0.17,3,42,0,False,False,False,True,False,False,-15119,-14451.76,🚨 High Risk – Investigate Cost & Revenue Leaks
+17219,27262,0.47,3,29,0,False,True,False,False,False,False,-10043,-6374.46,🚨 High Risk – Investigate Cost & Revenue Leaks
+78340,64413,0.27,3,35,0,False,False,False,True,False,False,13927,16154.49,🚨 High Risk – Investigate Cost & Revenue Leaks
+50106,5198,0.33,2,47,0,False,False,True,False,False,False,44908,42795.53,✅ Low Risk – Stable Profitability
+44298,59264,0.83,3,42,1,False,False,False,True,False,False,-14966,-11935.23,🚨 High Risk – Investigate Cost & Revenue Leaks
+33699,26051,0.66,0,18,0,False,False,True,False,False,True,7648,5859.14,🚨 High Risk – Investigate Cost & Revenue Leaks
+13007,30376,0.44,1,25,1,True,False,False,False,False,False,-17369,-13518.52,🚨 High Risk – Investigate Cost & Revenue Leaks
+72661,72626,0.37,2,1,1,False,False,False,True,False,True,35,-3076.46,🚨 High Risk – Investigate Cost & Revenue Leaks
+25128,27951,0.52,2,25,0,False,False,False,True,False,False,-2823,949.03,🚨 High Risk – Investigate Cost & Revenue Leaks
+66813,81623,0.53,3,48,0,False,False,True,False,False,False,-14810,-15813.52,🚨 High Risk – Investigate Cost & Revenue Leaks
+51959,22096,0.89,3,20,4,False,False,False,False,False,False,29863,31525.99,⚠️ Medium Risk – Monitor Operational KPIs
+13717,23581,0.26,3,28,1,True,False,False,False,False,False,-9864,-8463.15,🚨 High Risk – Investigate Cost & Revenue Leaks
+21389,55393,0.48,3,7,2,False,False,True,False,False,False,-34004,-34539.3,🚨 High Risk – Investigate Cost & Revenue Leaks
+96792,88451,0.18,2,50,0,False,False,False,True,False,False,8341,7408.41,🚨 High Risk – Investigate Cost & Revenue Leaks
+43765,7425,0.48,0,51,1,False,False,True,False,False,False,36340,35432.39,⚠️ Medium Risk – Monitor Operational KPIs
+59693,78993,0.82,3,37,2,False,True,False,False,False,False,-19300,-20740.49,🚨 High Risk – Investigate Cost & Revenue Leaks
+39529,40265,0.76,4,54,1,True,False,False,False,False,False,-736,557.07,🚨 High Risk – Investigate Cost & Revenue Leaks
+35355,50523,0.25,2,58,2,False,False,False,False,False,False,-15168,-23212.95,🚨 High Risk – Investigate Cost & Revenue Leaks
+25611,65483,0.26,1,2,1,False,False,False,False,False,False,-39872,-35724.8,🚨 High Risk – Investigate Cost & Revenue Leaks
+25384,77055,0.95,0,34,4,False,False,True,False,False,False,-51671,-53218.89,🚨 High Risk – Investigate Cost & Revenue Leaks
+89076,22029,0.52,0,32,3,False,False,False,True,False,False,67047,64000.09,✅ Low Risk – Stable Profitability
+94339,3126,0.77,0,24,0,False,False,True,False,False,False,91213,84104.18,✅ Low Risk – Stable Profitability
+19397,21574,0.75,1,51,0,False,False,True,False,False,False,-2177,-4104.89,🚨 High Risk – Investigate Cost & Revenue Leaks
+77936,70506,0.33,3,26,4,False,False,False,False,True,False,7430,9008.08,🚨 High Risk – Investigate Cost & Revenue Leaks
+89471,16919,0.93,4,44,3,True,False,False,False,False,False,72552,69787.09,✅ Low Risk – Stable Profitability
+65921,12446,0.89,2,19,0,False,False,True,False,False,False,53475,49793.28,✅ Low Risk – Stable Profitability
+45262,40219,0.79,3,41,0,True,False,False,False,False,False,5043,5134.31,🚨 High Risk – Investigate Cost & Revenue Leaks
+77474,33678,0.82,1,5,0,False,False,False,True,False,False,43796,48311.51,✅ Low Risk – Stable Profitability
+29504,73480,0.53,1,20,2,True,False,False,False,False,False,-43976,-49895.45,🚨 High Risk – Investigate Cost & Revenue Leaks
+46427,69081,0.19,2,8,1,False,True,False,False,False,False,-22654,-23131.18,🚨 High Risk – Investigate Cost & Revenue Leaks
+34189,88595,0.95,2,16,1,False,True,False,False,False,False,-54406,-48425.38,🚨 High Risk – Investigate Cost & Revenue Leaks
+55343,80834,0.26,1,18,2,False,False,False,True,False,False,-25491,-22185.0,🚨 High Risk – Investigate Cost & Revenue Leaks
+9835,5079,0.59,2,4,1,False,True,False,False,False,True,4756,2826.46,🚨 High Risk – Investigate Cost & Revenue Leaks
+56934,74324,0.05,4,56,0,False,False,False,True,False,False,-17390,-19248.71,🚨 High Risk – Investigate Cost & Revenue Leaks
+9809,89925,0.16,1,36,1,False,False,True,False,False,False,-80116,-76424.13,🚨 High Risk – Investigate Cost & Revenue Leaks
+24870,55329,0.71,1,38,1,False,False,True,False,False,False,-30459,-33269.08,🚨 High Risk – Investigate Cost & Revenue Leaks
+98709,27578,0.67,1,45,0,True,False,False,False,False,False,71131,67981.31,✅ Low Risk – Stable Profitability
+61800,29657,0.1,3,2,0,True,False,False,False,True,False,32143,31675.47,⚠️ Medium Risk – Monitor Operational KPIs
+9432,86559,0.13,2,21,2,False,False,False,True,False,False,-77127,-74671.41,🚨 High Risk – Investigate Cost & Revenue Leaks
+28930,49600,0.91,4,2,0,True,False,False,False,False,False,-20670,-23269.81,🚨 High Risk – Investigate Cost & Revenue Leaks
+39578,30632,0.47,4,48,2,False,False,True,False,False,False,8946,10589.68,🚨 High Risk – Investigate Cost & Revenue Leaks
+14348,26710,0.24,1,33,1,False,True,False,False,False,False,-12362,-8039.14,🚨 High Risk – Investigate Cost & Revenue Leaks
+6342,46001,0.73,2,53,0,False,False,True,False,False,False,-39659,-36863.06,🚨 High Risk – Investigate Cost & Revenue Leaks
+53136,67772,0.47,1,10,4,False,True,False,False,False,False,-14636,-11430.51,🚨 High Risk – Investigate Cost & Revenue Leaks
+24758,70642,0.51,3,50,2,True,False,False,False,False,False,-45884,-49656.87,🚨 High Risk – Investigate Cost & Revenue Leaks
+32285,81945,0.11,6,30,1,True,False,False,False,False,False,-49660,-47829.47,🚨 High Risk – Investigate Cost & Revenue Leaks
+51271,57756,0.6,2,7,0,False,False,False,True,False,False,-6485,-3438.47,🚨 High Risk – Investigate Cost & Revenue Leaks
+10126,39408,0.77,3,10,2,False,False,True,False,False,False,-29282,-26569.18,🚨 High Risk – Investigate Cost & Revenue Leaks
+10569,50924,0.23,0,47,0,False,False,False,False,False,False,-40355,-42722.98,🚨 High Risk – Investigate Cost & Revenue Leaks
+29071,81617,0.61,2,4,0,False,False,False,False,False,False,-52546,-51949.31,🚨 High Risk – Investigate Cost & Revenue Leaks
+10240,38111,0.58,0,8,0,False,True,False,False,False,False,-27871,-25644.88,🚨 High Risk – Investigate Cost & Revenue Leaks
+28061,77478,0.64,4,58,0,False,False,False,False,False,False,-49417,-53255.5,🚨 High Risk – Investigate Cost & Revenue Leaks
+44811,43809,0.65,1,28,0,True,False,False,False,False,True,1002,1303.94,🚨 High Risk – Investigate Cost & Revenue Leaks
+88285,30306,0.39,5,7,0,False,False,True,False,False,False,57979,55726.01,✅ Low Risk – Stable Profitability
+84767,3806,0.77,0,58,1,False,True,False,False,False,False,80961,76460.08,✅ Low Risk – Stable Profitability
+13567,59979,0.23,3,43,0,False,True,False,False,False,False,-46412,-43362.42,🚨 High Risk – Investigate Cost & Revenue Leaks
+62043,75847,0.4,3,55,0,False,False,False,False,False,False,-13804,-18722.76,🚨 High Risk – Investigate Cost & Revenue Leaks
+30289,89066,0.85,1,32,2,True,False,False,False,False,False,-58777,-53525.23,🚨 High Risk – Investigate Cost & Revenue Leaks
+63596,17199,0.72,4,17,1,False,False,False,True,False,False,46397,42699.61,✅ Low Risk – Stable Profitability
+6015,51770,0.07,2,41,0,False,True,False,False,False,False,-45755,-45076.9,🚨 High Risk – Investigate Cost & Revenue Leaks
+24262,3060,0.53,2,28,1,False,True,False,False,False,True,21202,15635.91,🚨 High Risk – Investigate Cost & Revenue Leaks
+91769,25116,0.82,2,1,0,False,False,False,False,False,False,66653,62567.9,✅ Low Risk – Stable Profitability
+25309,79534,0.2,2,20,2,False,False,False,True,False,False,-54225,-54461.65,🚨 High Risk – Investigate Cost & Revenue Leaks
+5117,51543,0.67,1,47,1,False,False,False,True,False,False,-46426,-44059.66,🚨 High Risk – Investigate Cost & Revenue Leaks
+86818,69017,0.48,1,59,0,False,True,False,False,False,False,17801,15671.06,🚨 High Risk – Investigate Cost & Revenue Leaks
+74836,77182,0.88,2,46,2,False,False,False,False,False,False,-2346,-4871.42,🚨 High Risk – Investigate Cost & Revenue Leaks
+89659,54571,0.59,3,13,0,True,False,False,False,False,True,35088,37460.25,⚠️ Medium Risk – Monitor Operational KPIs
+48925,43042,0.27,1,49,2,False,True,False,False,False,False,5883,6427.68,🚨 High Risk – Investigate Cost & Revenue Leaks
+9632,32711,0.93,2,51,0,False,False,True,False,False,False,-23079,-20253.24,🚨 High Risk – Investigate Cost & Revenue Leaks
+69291,58337,0.14,2,15,1,False,False,False,True,True,False,10954,11072.67,🚨 High Risk – Investigate Cost & Revenue Leaks
+41976,53072,0.92,3,5,4,False,False,False,True,False,False,-11096,-9587.07,🚨 High Risk – Investigate Cost & Revenue Leaks
+43638,74431,0.83,2,17,0,False,False,False,True,False,False,-30793,-27955.79,🚨 High Risk – Investigate Cost & Revenue Leaks
+20485,50882,0.65,4,17,0,False,False,False,True,False,False,-30397,-29374.09,🚨 High Risk – Investigate Cost & Revenue Leaks
+96267,63279,0.95,0,5,1,False,True,False,False,False,False,32988,29533.06,⚠️ Medium Risk – Monitor Operational KPIs
+37254,5050,0.0,0,2,2,False,False,True,False,True,False,32204,24279.96,⚠️ Medium Risk – Monitor Operational KPIs
+40270,27519,0.25,1,27,3,False,True,False,False,True,False,12751,14793.23,🚨 High Risk – Investigate Cost & Revenue Leaks
