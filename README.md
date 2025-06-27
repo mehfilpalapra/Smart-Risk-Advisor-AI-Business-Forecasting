@@ -73,6 +73,13 @@ This project simulates a real business scenario where AI can support strategic d
 
 
 ---
+### 💼 Use Case Scenarios
+
+- Business units can **predict profitability trends**
+- Management can **track operational risk** by advice level
+- Stakeholders can **monitor accuracy of AI forecasting**
+- Supports **data-driven decision-making** for cost control and planning
+---
 
 ### 🙋‍♂️ About Me
 
